@@ -1,0 +1,2275 @@
+[
+  {
+    "id": "auriculares-alambricos",
+    "name": "Auriculares Alámbricos",
+    "brand": "Pendiente",
+    "model": "Pendiente",
+    "category": "audio",
+    "subcategory": "headphones",
+    "aliases": [
+      "auriculares",
+      "headphones",
+      "audifonos",
+      "monitors de audio"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "podcast",
+        "streaming",
+        "programa-de-radio"
+      ],
+      "function": [
+        "monitorear"
+      ],
+      "context": [
+        "interior",
+        "estudio",
+        "exterior"
+      ],
+      "technology": [
+        "mini-jack"
+      ],
+      "characteristics": [
+        "portatil"
+      ],
+      "productionStage": [
+        "monitoreo"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "podcast",
+      "streaming",
+      "programa-de-radio"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "zoom-h6essential",
+      "bmcc-4k"
+    ],
+    "compatibleWith": [
+      "zoom-h6essential"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [],
+    "image": "/images/equipment/auriculares-alambricos.png",
+    "status": "needs-identification",
+    "content": {
+      "oneLiner": "Auriculares de estudio para monitoreo de audio en tiempo real durante grabaciones.",
+      "whatFor": "Escuchar y monitorear el audio que se está grabando en tiempo real, detectando problemas de nivel, ruido, o calidad antes de que sea demasiado tarde para corregirlos.",
+      "whenToUse": "Siempre que se grabe audio profesional. Es el equivalente a un monitor de video pero para audio: sin auriculares, estás grabando a ciegas.",
+      "whatYouNeed": "Un cable mini-jack o adaptador a la fuente de audio.",
+      "quickTip": "Dato pendiente de identificación — verificar tipo de conector, impedancia, y si son over-ear o in-ear para recomendar su uso correcto."
+    }
+  },
+  {
+    "id": "bateria-camaras",
+    "name": "Batería para Cámaras",
+    "brand": "King Ma / Genérico",
+    "model": "Dummy Battery Kit",
+    "category": "accesorios",
+    "subcategory": "battery",
+    "aliases": [
+      "bateria dummy",
+      "dummy battery kit",
+      "bateria camara",
+      "bateria externa"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "streaming",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "cargar"
+      ],
+      "context": [
+        "interior",
+        "estudio",
+        "exterior"
+      ],
+      "technology": [],
+      "characteristics": [
+        "portatil"
+      ],
+      "productionStage": [
+        "carga"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "streaming",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "smart-usb-charger-hw66",
+      "dc-dummy-battery"
+    ],
+    "compatibleWith": [
+      "bmcc-4k"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [],
+    "image": "/images/equipment/Dummy-batery-kit-King-Ma.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Kit de baterías externas y dummy battery para alimentación continua de cámaras de alto consumo.",
+      "whatFor": "Permitir la alimentación continua de la cámara en exteriores o estudio sin depender exclusivamente de la batería interna. El kit incluye dummy batteries que se conectan a Power Banks o baterías V-Mount.",
+      "whenToUse": "Indispensable en producciones con cámaras de alto consumo como la BMPCC 4K en rodajes en exterior, así como en entrevistas largas, streaming y eventos de día completo.",
+      "whatYouNeed": "Una fuente de energía externa (batería V-Mount, Power Bank USB-C de alto amperaje o fuente DC).",
+      "quickTip": "La BMPCC 4K requiere fuentes de energía constantes. Con el kit dummy battery podés alimentar la cámara durante horas sin interrupciones por cambio de batería."
+    }
+  },
+  {
+    "id": "dc-dummy-battery",
+    "name": "DC Jack to Dummy Battery",
+    "brand": "Genérico",
+    "model": "Dummy Battery Adapter",
+    "category": "conectividad",
+    "subcategory": "adapter",
+    "aliases": [
+      "dummy battery",
+      "bateria falsa",
+      "adaptador bateria",
+      "dc dummy"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "streaming",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "cargar",
+        "adaptar"
+      ],
+      "context": [
+        "interior",
+        "estudio"
+      ],
+      "technology": [
+        "dc"
+      ],
+      "characteristics": [
+        "portatil"
+      ],
+      "productionStage": [
+        "carga"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "streaming",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "smart-usb-charger-hw66"
+    ],
+    "compatibleWith": [
+      "bmcc-4k"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [],
+    "image": "/images/equipment/DC-jack-to-dummy-baterry.jpeg",
+    "status": "needs-identification",
+    "content": {
+      "oneLiner": "Adaptador que permite alimentar una cámara desde una fuente de energía externa en lugar de baterías.",
+      "whatFor": "Reemplazar la batería de la cámara con una fuente de energía externa, permitiendo grabaciones de larga duración sin preocuparse por la carga de la batería.",
+      "whenToUse": "En grabaciones largas: entrevistas extensas, streaming de varias horas, eventos de día completo, o cualquier producción donde la batería de la cámara no alcanza.",
+      "whatYouNeed": "Una fuente de energía DC compatible y la dummy battery correcta para tu modelo de cámara.",
+      "quickTip": "Dato pendiente de identificación — verificar voltaje, amperaje y compatibilidad exacta con la BMPCC 4K u otras cámaras antes de conectar."
+    }
+  },
+  {
+    "id": "tripod-generico",
+    "name": "Trípodes",
+    "brand": "Varios",
+    "model": "Genérico",
+    "category": "accesorios",
+    "subcategory": "tripod",
+    "aliases": [
+      "tripod",
+      "tripode",
+      "soporte camara",
+      "estativo"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "fotografia-de-producto",
+        "streaming",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "estabilizar"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "estudio"
+      ],
+      "technology": [],
+      "characteristics": [
+        "portatil"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "fotografia-de-producto",
+      "streaming",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "canon-24-105",
+      "rgb-led-ring-light"
+    ],
+    "compatibleWith": [
+      "bmcc-4k",
+      "rgb-led-ring-light"
+    ],
+    "alternatives": [
+      "gimbal-gadnic"
+    ],
+    "notSuitableFor": [],
+    "image": "/images/equipment/tripodes.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Soporte de tres patas para estabilizar cámaras y equipos de iluminación en posiciones fijas.",
+      "whatFor": "Sostener la cámara de forma estable y nivelada en una posición fija. Esencial para entrevistas, planos estáticos, fotografía de producto, y cualquier grabación donde la cámara no se mueve.",
+      "whenToUse": "En entrevistas face-to-face, planos fijos de documentales, streaming con cámara estática, fotografía de producto, o como base para luces.",
+      "whatYouNeed": "Una cabeza de tripod compatible con tu cámara o equipo.",
+      "quickTip": "Un buen trípode dura más que una cámara. Invertí en uno estable antes que en accesorios fancy — un plano tembloroso arruina cualquier producción."
+    }
+  },
+  {
+    "id": "smart-usb-charger-hw66",
+    "name": "Smart USB Charger HW66",
+    "brand": "HW",
+    "model": "HW66",
+    "category": "alimentacion",
+    "subcategory": "charger",
+    "aliases": [
+      "cargador usb",
+      "cargador multipuerto",
+      "smart charger",
+      "cargador 10 puertos"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "streaming",
+        "registro-de-eventos",
+        "corto-inmersivo-3d"
+      ],
+      "function": [
+        "cargar"
+      ],
+      "context": [
+        "interior",
+        "estudio"
+      ],
+      "technology": [
+        "usb",
+        "usb-c"
+      ],
+      "characteristics": [
+        "portatil"
+      ],
+      "productionStage": [
+        "carga"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "streaming",
+      "registro-de-eventos",
+      "corto-inmersivo-3d"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "zapatilla-electrica",
+      "bmcc-4k",
+      "zoom-h6essential",
+      "meta-quest-3s",
+      "insta360-8k",
+      "samsung-galaxy-tab-a9"
+    ],
+    "compatibleWith": [],
+    "alternatives": [],
+    "notSuitableFor": [],
+    "image": "/images/equipment/Smart-USB-charger-330w---10-puertos.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Cargador USB inteligente de 10 puertos para carga simultánea de múltiples dispositivos en producción.",
+      "whatFor": "Cargar múltiples dispositivos simultáneamente: cámaras, tablets, accesorios inalámbricos, etc. Un solo cargador puede alimentar todo el equipo portátil de una producción.",
+      "whenToUse": "En sesiones de grabación largas, eventos de múltiples días, o cuando tenés muchos dispositivos que necesitan estar cargados antes de la producción.",
+      "whatYouNeed": "Cables USB/USB-C compatibles con tus dispositivos.",
+      "quickTip": "Organizá los cables con etiquetas: un puerto para la cámara, otro para el grabador, otro para la tablet. Evitás confusiones cuando todo está conectado."
+    }
+  },
+  {
+    "id": "zapatilla-electrica",
+    "name": "Zapatilla Eléctrica Multitoma",
+    "brand": "Genérico / Kalop",
+    "model": "Zapatilla 6 Tomas con Llave de Corte",
+    "category": "alimentacion",
+    "subcategory": "charger",
+    "aliases": [
+      "zapatilla",
+      "zapatilla electrica",
+      "prolongador",
+      "multitoma",
+      "zapatilla de corriente",
+      "regleta de enchufes",
+      "distribuidor de energia"
+    ],
+    "tags": {
+      "activity": [
+        "podcast",
+        "entrevista",
+        "streaming",
+        "programa-de-radio",
+        "fotografia-de-producto",
+        "corto-animado",
+        "documental",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "cargar",
+        "conectar"
+      ],
+      "context": [
+        "interior",
+        "estudio"
+      ],
+      "technology": [
+        "usb"
+      ],
+      "characteristics": [
+        "portatil",
+        "compacto"
+      ],
+      "productionStage": [
+        "carga",
+        "iluminacion"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "podcast",
+      "entrevista",
+      "streaming",
+      "programa-de-radio",
+      "fotografia-de-producto",
+      "corto-animado-vefx",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "smart-usb-charger-hw66",
+      "zoom-h6essential",
+      "atem-mini-pro",
+      "rgb-led-ring-light",
+      "softbox-generico",
+      "bmcc-4k"
+    ],
+    "compatibleWith": [
+      "smart-usb-charger-hw66",
+      "atem-mini-pro",
+      "rgb-led-ring-light",
+      "softbox-generico"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [
+      "exterior"
+    ],
+    "image": "/images/equipment/zapatilla-electrica.png",
+    "status": "available",
+    "content": {
+      "oneLiner": "Zapatilla prolongadora multitoma con llave de corte para alimentación continua de múltiples equipos de producción en interior o estudio.",
+      "whatFor": "Distribuir corriente eléctrica a múltiples dispositivos simultáneamente (cargadores, consolas de audio, iluminación LED, cámaras con dummy battery y computadoras de streaming).",
+      "whenToUse": "En producciones en estudio o interiores como podcasts, programas de radio, streaming multi-cámara o sesiones de fotografía de producto donde varios equipos requieren alimentación eléctrica continua de alto consumo.",
+      "whatYouNeed": "Un tomacorriente de pared cercano o un cable prolongador de extensión.",
+      "quickTip": "Esencial para evitar quedarse sin tomas en podcasts o sets con múltiples luces y cargadores. Usala con la llave de corte encendida para centralizar el apagado seguro de los equipos."
+    }
+  },
+  {
+    "id": "crucial-portable-ssd-x9",
+    "name": "Crucial Portable SSD X9",
+    "brand": "Crucial",
+    "model": "Portable SSD X9",
+    "category": "almacenamiento",
+    "subcategory": "ssd",
+    "aliases": [
+      "crucial ssd",
+      "ssd crucial",
+      "ssd portatil"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "streaming",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "almacenar"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "movilidad"
+      ],
+      "technology": [
+        "usb-c"
+      ],
+      "characteristics": [
+        "portatil",
+        "compacto"
+      ],
+      "productionStage": [
+        "almacenamiento"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "streaming",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "zoom-h6essential"
+    ],
+    "compatibleWith": [
+      "bmcc-4k"
+    ],
+    "alternatives": [
+      "wd-green-ssd-2tb"
+    ],
+    "notSuitableFor": [],
+    "image": "/images/equipment/SSD-portable-2TB.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "SSD portátil compacto con interfaz USB-C para transferencia rápida de archivos en campo.",
+      "whatFor": "Almacenamiento rápido y portátil para transferir grabaciones del set a la estación de edición. Su tamaño compacto lo hace ideal para grabaciones en exteriores.",
+      "whenToUse": "En producciones móviles donde necesitás transferir archivos rápidamente, o como backup secundario durante grabaciones críticas.",
+      "whatYouNeed": "Un cable USB-C (generalmente incluido).",
+      "quickTip": "El SSD X9 es más rápido que el WD Green SATA — usalo para transferencias urgentes y el WD Green para almacenamiento de archival."
+    }
+  },
+  {
+    "id": "wd-green-ssd-2tb",
+    "name": "WD Green SATA SSD 2 TB",
+    "brand": "Western Digital",
+    "model": "Green SATA SSD 2TB",
+    "category": "almacenamiento",
+    "subcategory": "ssd",
+    "aliases": [
+      "ssd wd",
+      "wd green",
+      "ssd 2tb",
+      "ssd sata"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "streaming",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "almacenar"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "movilidad"
+      ],
+      "technology": [
+        "sata",
+        "usb"
+      ],
+      "characteristics": [
+        "portatil"
+      ],
+      "productionStage": [
+        "almacenamiento"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "streaming",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "zoom-h6essential",
+      "samsung-galaxy-tab-a9"
+    ],
+    "compatibleWith": [
+      "bmcc-4k"
+    ],
+    "alternatives": [
+      "crucial-portable-ssd-x9"
+    ],
+    "notSuitableFor": [],
+    "image": "/images/equipment/SSD-portable-2TB.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "SSD portátil de 2 TB para almacenamiento masivo de video y audio en producción.",
+      "whatFor": "Almacenar grandes volúmenes de grabaciones de video y audio. Con 2 TB, tiene capacidad para múltiples jornadas de grabación en 4K o largas sesiones de audio.",
+      "whenToUse": "Siempre — el almacenamiento externo es esencial en cualquier producción. Especialmente crítico para grabaciones de video 4K que consumen espacio rápidamente.",
+      "whatYouNeed": "Un cable USB (generalmente incluido) y una computadora o grabadora con puerto USB.",
+      "quickTip": "No confíes solo en una tarjeta SD. Grabá siempre backup en SSD: las tarjetas SD fallan más frecuentemente de lo que pensás."
+    }
+  },
+  {
+    "id": "corbatero-generico",
+    "name": "Micrófono Corbatero",
+    "brand": "Pendiente",
+    "model": "Pendiente",
+    "category": "audio",
+    "subcategory": "microphone",
+    "aliases": [
+      "corbatero",
+      "microfono de solapa",
+      "lavalier generico",
+      "mic lapel"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "podcast",
+        "documental"
+      ],
+      "function": [
+        "grabar-voz",
+        "capturar-audio"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "movilidad"
+      ],
+      "technology": [
+        "wireless",
+        "mini-jack"
+      ],
+      "characteristics": [
+        "inalambrico",
+        "portatil"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "entrevista",
+      "podcast",
+      "documental"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "zoom-h6essential"
+    ],
+    "compatibleWith": [
+      "zoom-h6essential"
+    ],
+    "alternatives": [
+      "sennheiser-evolution-wireless"
+    ],
+    "notSuitableFor": [
+      "programa-de-radio"
+    ],
+    "image": "/images/equipment/Corbatero.jpeg",
+    "status": "needs-identification",
+    "content": {
+      "oneLiner": "Micrófono de solapa (lavalier) para grabación de voz con sujeción en la ropa.",
+      "whatFor": "Capturar voz de forma discreta y sin cables visibles. Se prende en la solapa o el cuello del entrevistado y permite grabar mientras la persona se mueve libremente.",
+      "whenToUse": "En entrevistas, podcasts con movimiento, o documentales donde el sujeto no puede sostener un micrófono ni estar cercano a uno fijo.",
+      "whatYouNeed": "Una fuente de audio compatible (como el Zoom H6essential) o un sistema inalámbrico si es modelo inalámbrico.",
+      "quickTip": "Dato pendiente de identificación — verificar modelo exacto, tipo de conector y compatibilidad antes de usar en producción crítica."
+    }
+  },
+  {
+    "id": "pg2-r-pistol-grip",
+    "name": "PG2-R Shock Mounted Microphone Pistol Grip",
+    "brand": "RØDE",
+    "model": "PG2-R",
+    "category": "audio",
+    "subcategory": "pistol-grip",
+    "aliases": [
+      "pistol grip",
+      "pistola microfono",
+      "soporte microfono",
+      "boom pistol"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "capturar-audio"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "movilidad"
+      ],
+      "technology": [],
+      "characteristics": [
+        "portatil",
+        "profesional"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "rode-ntg1",
+      "zoom-h6essential"
+    ],
+    "compatibleWith": [
+      "rode-ntg1",
+      "zoom-h6essential"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [
+      "programa-de-radio"
+    ],
+    "image": "/images/equipment/Pistol-Grip-PG2-R-gris.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Soporte tipo pistola con shock mount para sostener un micrófono shotgun de forma estable y reducir vibraciones.",
+      "whatFor": "Sostener un micrófono shotgun (como el RØDE NTG1) de forma ergonómica durante grabaciones en mano. El shock mount integrado aísla el micrófono de vibraciones y ruidos de manejo.",
+      "whenToUse": "Cuando grabás audio en movimiento: entrevistas callejeras, documentales, registro de eventos, o cualquier situación donde no podés usar un boom fijo.",
+      "whatYouNeed": "Un micrófono shotgun compatible (como el RØDE NTG1) y un cable XLR.",
+      "quickTip": "Si tenés dos PG2-R (gris y rojo), podés identificar fácilmente qué micrófono corresponde a cada persona en una entrevista doble."
+    }
+  },
+  {
+    "id": "professional-audio-extender",
+    "name": "Professional Audio Extender",
+    "brand": "Pendiente",
+    "model": "Pendiente",
+    "category": "audio",
+    "subcategory": "extender",
+    "aliases": [
+      "extensor de audio",
+      "cable extensor",
+      "extender xlr",
+      "extender audio"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "extender",
+        "conectar"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "movilidad"
+      ],
+      "technology": [
+        "xlr"
+      ],
+      "characteristics": [
+        "portatil"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "zoom-h6essential",
+      "rode-ntg1",
+      "samson-r31s"
+    ],
+    "compatibleWith": [
+      "zoom-h6essential",
+      "rode-ntg1",
+      "samson-r31s"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [],
+    "image": "/images/equipment/cable-extesor-de-audio.jpeg",
+    "status": "needs-identification",
+    "content": {
+      "oneLiner": "Cable extensor profesional para alejar el micrófono de la fuente de grabación.",
+      "whatFor": "Extender la distancia entre el micrófono y el grabador, permitiendo posicionamientos más versátiles en entrevistas, documentales y eventos.",
+      "whenToUse": "Cuando el micrófono está montado en boom o pistola y necesitás conectarlo a un grabador que está más alejado, o cuando el setup de grabación requiere separación entre componentes.",
+      "whatYouNeed": "Un micrófono compatible y una fuente de audio con entrada XLR.",
+      "quickTip": "Dato pendiente de identificación — verificar longitud, tipo de conector y atenuación de señal antes de usar en producciones con cable largo."
+    }
+  },
+  {
+    "id": "rode-ntg1",
+    "name": "RØDE NTG1",
+    "brand": "RØDE",
+    "model": "NTG1",
+    "category": "audio",
+    "subcategory": "microphone",
+    "aliases": [
+      "microfono canon",
+      "shotgun",
+      "microfono direccional",
+      "microfono cañón",
+      "ntg1",
+      "broadcast shotgun"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "registro-de-eventos",
+        "streaming"
+      ],
+      "function": [
+        "grabar-voz",
+        "capturar-audio"
+      ],
+      "context": [
+        "interior",
+        "exterior"
+      ],
+      "technology": [
+        "xlr",
+        "phantom-power"
+      ],
+      "characteristics": [
+        "shotgun",
+        "direccional",
+        "condensador",
+        "profesional"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "registro-de-eventos",
+      "streaming"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "zoom-h6essential",
+      "pg2-r-pistol-grip",
+      "sennheiser-evolution-wireless"
+    ],
+    "compatibleWith": [
+      "zoom-h6essential",
+      "pg2-r-pistol-grip"
+    ],
+    "alternatives": [
+      "samson-r31s"
+    ],
+    "notSuitableFor": [
+      "programa-de-radio"
+    ],
+    "image": "/images/equipment/broadcast-grade-shot-gun-microphone-NTG1.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Micrófono shotgun broadcast-grade para captura direccional de voz en producción audiovisual.",
+      "whatFor": "Capturar voz de forma direccional, rechazando sonidos laterales y traseros. Es el estándar para entrevistas, documentales y cualquier producción donde necesitás aislar la voz del entorno.",
+      "whenToUse": "En entrevistas grabadas con cámara, documentales, streaming, o cualquier situación donde el micrófono está alejado del hablante (montado en boom o en cámara).",
+      "whatYouNeed": "Una fuente de audio con phantom power (como el Zoom H6essential) y un cable XLR. Para uso en boom, necesitás un soporte boom y un cable largo.",
+      "quickTip": "Apuntá el micrófono directamente a la boca del hablante. La zona de captura efectiva es un cono estrecho — si desvías, perdés nivel y claridad."
+    }
+  },
+  {
+    "id": "samson-r31s",
+    "name": "Samson R31S",
+    "brand": "Samson",
+    "model": "R31S",
+    "category": "audio",
+    "subcategory": "microphone",
+    "aliases": [
+      "microfono samson",
+      "microfono dinamico samson",
+      "samson dinamico"
+    ],
+    "tags": {
+      "activity": [
+        "podcast",
+        "entrevista",
+        "programa-de-radio"
+      ],
+      "function": [
+        "grabar-voz",
+        "capturar-audio"
+      ],
+      "context": [
+        "interior",
+        "estudio"
+      ],
+      "technology": [
+        "xlr"
+      ],
+      "characteristics": [
+        "dinamico",
+        "omnidireccional",
+        "portatil"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "entrevista",
+      "podcast",
+      "programa-de-radio"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "zoom-h6essential",
+      "pg2-r-pistol-grip",
+      "professional-audio-extender"
+    ],
+    "compatibleWith": [
+      "zoom-h6essential",
+      "pg2-r-pistol-grip",
+      "professional-audio-extender"
+    ],
+    "alternatives": [
+      "rode-ntg1"
+    ],
+    "notSuitableFor": [],
+    "image": "/images/equipment/dinamic-microphone-re1s.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Micrófono dinámico de solapa para grabación de voz en entornos controlados.",
+      "whatFor": "Capturar voz de forma natural y directa. Al ser dinámico, es menos sensible al ruido ambiental, lo que lo hace ideal para estudio o interiores con algo de ruido controlado.",
+      "whenToUse": "Para podcasts, entrevistas face-to-face, o programas de radio donde el hablante está cerca del micrófono. Funciona bien para voces masculinas y femeninas.",
+      "whatYouNeed": "Un cable XLR y una fuente de audio compatible (como el Zoom H6essential).",
+      "quickTip": "Aunque es omnidireccional, acercá el micrófono lo más posible a la boca del hablante para maximizar la relación señal/ruido."
+    }
+  },
+  {
+    "id": "sennheiser-evolution-wireless",
+    "name": "Sennheiser Evolution Wireless Digital Lavalier Set",
+    "brand": "Sennheiser",
+    "model": "Evolution Wireless Digital",
+    "category": "audio",
+    "subcategory": "wireless-system",
+    "aliases": [
+      "sennheiser wireless",
+      "lavalier sennheiser",
+      "sistema inalambrico sennheiser",
+      "evolution wireless"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "registro-de-eventos",
+        "streaming"
+      ],
+      "function": [
+        "grabar-voz",
+        "capturar-audio"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "movilidad"
+      ],
+      "technology": [
+        "wireless",
+        "bluetooth"
+      ],
+      "characteristics": [
+        "inalambrico",
+        "portatil",
+        "profesional"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "registro-de-eventos",
+      "streaming"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "zoom-h6essential",
+      "rode-ntg1"
+    ],
+    "compatibleWith": [
+      "zoom-h6essential"
+    ],
+    "alternatives": [
+      "corbatero-generico"
+    ],
+    "notSuitableFor": [
+      "programa-de-radio"
+    ],
+    "image": "/images/equipment/lavalier-set-evolution-wireless.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Sistema de micrófono lavalier inalámbrico digital de alta calidad para grabación de voz sin cables.",
+      "whatFor": "Permite grabar voz de forma inalámbrica, liberando al entrevistado de cables y restricciones de movimiento. El lavalier se prende en la ropa y transmite audio digital de alta fidelidad.",
+      "whenToUse": "En entrevistas donde el sujeto se mueve, documentales con personas en acción, registro de eventos donde no podés acercar un micrófono cableado, o streaming con presentadores que caminan.",
+      "whatYouNeed": "Una fuente de audio con entrada de línea (como el Zoom H6essential) y espacio para el receptor.",
+      "quickTip": "Colocá el lavalier a unos 15 cm del mentón, escondido bajo la ropa pero sin rozar tejidos. El roce genera ruido que es difícil de eliminar después."
+    }
+  },
+  {
+    "id": "wireless-microphone-system",
+    "name": "Wireless Microphone System",
+    "brand": "Pendiente",
+    "model": "Pendiente",
+    "category": "audio",
+    "subcategory": "wireless-system",
+    "aliases": [
+      "sistema inalambrico",
+      "wireless mic",
+      "microfono inalambrico"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "streaming",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "grabar-voz",
+        "capturar-audio"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "movilidad"
+      ],
+      "technology": [
+        "wireless"
+      ],
+      "characteristics": [
+        "inalambrico",
+        "portatil"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "entrevista",
+      "streaming",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "zoom-h6essential"
+    ],
+    "compatibleWith": [
+      "zoom-h6essential"
+    ],
+    "alternatives": [
+      "sennheiser-evolution-wireless"
+    ],
+    "notSuitableFor": [
+      "programa-de-radio"
+    ],
+    "image": "/images/equipment/Wireless-michropone-system.jpeg",
+    "status": "needs-identification",
+    "content": {
+      "oneLiner": "Sistema de micrófono inalámbrico para grabación de voz sin cables.",
+      "whatFor": "Permitir la grabación de voz de forma inalámbrica, ideal para entrevistas con movimiento, streaming, y eventos donde los cables son impracticables.",
+      "whenToUse": "Cuando necesitás grabar voz sin restricciones de cables: entrevistas en campo, eventos, streaming con presentadores móviles.",
+      "whatYouNeed": "Una fuente de audio con entrada compatible.",
+      "quickTip": "Dato pendiente de identificación — verificar modelo, frecuencia de operación, alcance y compatibilidad con otras fuentes de audio."
+    }
+  },
+  {
+    "id": "zoom-h6essential",
+    "name": "Zoom H6essential",
+    "brand": "Zoom",
+    "model": "H6essential",
+    "category": "audio",
+    "subcategory": "recorder",
+    "aliases": [
+      "grabador zoom",
+      "zoom 6 tracks",
+      "hand recorder",
+      "grabador portatil"
+    ],
+    "tags": {
+      "activity": [
+        "podcast",
+        "entrevista",
+        "documental",
+        "registro-de-eventos",
+        "programa-de-radio"
+      ],
+      "function": [
+        "grabar-audio",
+        "grabar-voz"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "estudio"
+      ],
+      "technology": [
+        "xlr",
+        "usb",
+        "sdxc"
+      ],
+      "characteristics": [
+        "portatil",
+        "multicanal",
+        "profesional"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "entrevista",
+      "podcast",
+      "documental",
+      "programa-de-radio",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "samson-r31s",
+      "sennheiser-evolution-wireless",
+      "rode-ntg1",
+      "zapatilla-electrica",
+      "pg2-r-pistol-grip",
+      "wd-green-ssd-2tb",
+      "crucial-portable-ssd-x9"
+    ],
+    "compatibleWith": [
+      "pg2-r-pistol-grip",
+      "samson-r31s",
+      "rode-ntg1",
+      "sennheiser-evolution-wireless",
+      "professional-audio-extender"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [],
+    "image": "/images/equipment/zoom-h6essential.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Grabador portátil de 6 pistas que permite registrar múltiples fuentes de audio de forma independiente.",
+      "whatFor": "Capturar y grabar audio profesional en producciones audiovisuales. Permite conectar micrófonos XLR y USB simultáneamente, con control independiente de niveles por canal. Ideal para entrevistas, podcasts, documentales y registro de eventos.",
+      "whenToUse": "Cuando necesitás grabar audio con más de una fuente simultánea: entrevistas con múltiples personas, podcasts con invitados, documentales con ambientación sonora, o cualquier producción donde el audio sea crítico.",
+      "whatYouNeed": "Al menos un micrófono compatible (XLR o USB) y una tarjeta SDXC.",
+      "quickTip": "Grabá siempre una pista de backup a nivel bajo. Si algo se distorsiona en una pista, la de backup puede salvarte la producción."
+    }
+  },
+  {
+    "id": "insta360-8k",
+    "name": "Insta360 8K Action Camera",
+    "brand": "Insta360",
+    "model": "Insta360 8K",
+    "category": "camara-inmersiva",
+    "subcategory": "action-camera",
+    "aliases": [
+      "insta 360",
+      "camara 360",
+      "camara inmersiva",
+      "insta360"
+    ],
+    "tags": {
+      "activity": [
+        "corto-inmersivo-3d",
+        "registro-de-eventos",
+        "documental"
+      ],
+      "function": [
+        "registrar-360",
+        "inmersivo",
+        "capturar-video"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "movilidad"
+      ],
+      "technology": [
+        360,
+        "usb-c"
+      ],
+      "characteristics": [
+        "8k",
+        "portatil",
+        "compacto"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "intermediate - professional"
+    ],
+    "useCases": [
+      "corto-inmersivo-3d",
+      "registro-de-eventos",
+      "documental"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "meta-quest-3s",
+      "crucial-portable-ssd-x9",
+      "wd-green-ssd-2tb",
+      "tripod-generico",
+      "zoom-h6essential"
+    ],
+    "compatibleWith": [],
+    "alternatives": [],
+    "notSuitableFor": [
+      "programa-de-radio",
+      "streaming"
+    ],
+    "image": "/images/equipment/insta-360.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Cámara de acción 360° con grabación en 8K para contenido inmersivo.",
+      "whatFor": "Capturar video inmersivo en 360 grados con resolución 8K, permitiendo al espectador explorar toda la escena. Ideal para cortometrajos inmersivos, VR, y experiencias inmersivas.",
+      "whenToUse": "Para cortometrajes inmersivos 3D, registro de eventos donde el espectador quiere \"estar ahí\", experiencias VR, o documentales con perspectiva inmersiva.",
+      "whatYouNeed": "Software de edición 360° (como Insta360 Studio) y almacenamiento de alta capacidad por la gran cantidad de datos que genera.",
+      "quickTip": "El video 360° en 8K genera archivos enormes. Llevá siempre SSD externo y no esperes a que se llene la tarjeta interna."
+    }
+  },
+  {
+    "id": "samsung-galaxy-tab-a9",
+    "name": "Samsung Galaxy Tab A9+",
+    "brand": "Samsung",
+    "model": "Galaxy Tab A9+",
+    "category": "computacion",
+    "subcategory": "tablet",
+    "aliases": [
+      "galaxy tab",
+      "samsung tablet",
+      "tablet samsung",
+      "tab a9"
+    ],
+    "tags": {
+      "activity": [
+        "streaming",
+        "entrevista",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "monitorear",
+        "controlar"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "movilidad"
+      ],
+      "technology": [
+        "wifi",
+        "bluetooth"
+      ],
+      "characteristics": [
+        "portatil",
+        "compacto"
+      ],
+      "productionStage": [
+        "monitoreo"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "streaming",
+      "entrevista",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "atem-mini-pro",
+      "bmcc-4k"
+    ],
+    "compatibleWith": [
+      "atem-mini-pro"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [
+      "programa-de-radio"
+    ],
+    "image": "/images/equipment/galaxy-tab-a9+.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Tablet Android para monitoreo de producción, control de apps, y referencia visual en set.",
+      "whatFor": "Monitorear feeds de video, controlar apps de streaming, revisar guiones, o usar como pantalla de referencia durante una producción. Su tamaño compacto la hace portátil en cualquier set.",
+      "whenToUse": "En streaming para controlar la transmisión, en entrevistas para revisar el guión, en eventos para monitorear múltiples feeds.",
+      "whatYouNeed": "Solo encenderla y usar las apps necesarias.",
+      "quickTip": "Cargala siempre antes de una producción — las tablets agotan batería rápido cuando están conectadas a feeds de video por WiFi."
+    }
+  },
+  {
+    "id": "canon-x5",
+    "name": "Cámara Réflex Canon",
+    "brand": "Canon",
+    "model": "Modelo a identificar",
+    "category": "fotografia",
+    "subcategory": "camera",
+    "aliases": [
+      "canon reflex",
+      "camara canon",
+      "camara dslr",
+      "reflex canon"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "fotografia-de-producto"
+      ],
+      "function": [
+        "capturar-video"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "estudio"
+      ],
+      "technology": [
+        "sd"
+      ],
+      "characteristics": [
+        "profesional"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "fotografia-de-producto",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "canon-24-105",
+      "canon-50mm",
+      "rgb-led-ring-light",
+      "tripod-generico"
+    ],
+    "compatibleWith": [
+      "canon-24-105",
+      "canon-50mm"
+    ],
+    "alternatives": [
+      "bmcc-4k"
+    ],
+    "notSuitableFor": [
+      "corto-inmersivo-3d"
+    ],
+    "image": "/images/equipment/Camara-reflex-Canon-x5.jpg",
+    "status": "needs-identification",
+    "content": {
+      "oneLiner": "Cámara réflex Canon para fotografía y grabación de video con lentes intercambiables.",
+      "whatFor": "Capturar fotos y video de alta calidad con la versatilidad de lentes intercambiables. Las Canon DSLR son estándar en producción para fotografía y video de presupuesto accesible.",
+      "whenToUse": "En fotografía de producto, entrevistas con calidad de imagen DSLR, documentales con presupuesto ajustado, o como segunda cámara en producciones multi-cámara.",
+      "whatYouNeed": "Un lente compatible (como el Canon 24–105 mm o el 50 mm) y tarjetas SD.",
+      "quickTip": "Dato pendiente de identificación — verificar modelo exacto, resolución de video, y si graba 4K o solo 1080p antes de recomendarlo para producciones específicas."
+    }
+  },
+  {
+    "id": "rgb-led-ring-light",
+    "name": "RGB LED Soft Ring Light",
+    "brand": "Genérico",
+    "model": "RGB Ring Light",
+    "category": "iluminacion",
+    "subcategory": "ring-light",
+    "aliases": [
+      "ring light",
+      "luz led rgb",
+      "anillo de luz",
+      "luz circular",
+      "soft ring"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "streaming",
+        "fotografia-de-producto",
+        "podcast"
+      ],
+      "function": [
+        "iluminar",
+        "crear-ambiente"
+      ],
+      "context": [
+        "interior",
+        "estudio"
+      ],
+      "technology": [
+        "usb"
+      ],
+      "characteristics": [
+        "luminoso",
+        "portatil"
+      ],
+      "productionStage": [
+        "iluminacion"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "entrevista",
+      "streaming",
+      "fotografia-de-producto",
+      "podcast"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "canon-50mm",
+      "chroma-key",
+      "samsung-galaxy-tab-a9"
+    ],
+    "compatibleWith": [],
+    "alternatives": [
+      "softbox-generico"
+    ],
+    "notSuitableFor": [
+      "documental",
+      "registro-de-eventos"
+    ],
+    "image": "/images/equipment/Soft-ring-light-RGB.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Anillo de luz LED con control de color RGB para iluminación suave y uniforme.",
+      "whatFor": "Producir una iluminación suave y uniforme que envuelve al sujeto, eliminando sombras duras. El control RGB permite crear ambientaciones de color para streaming, entrevistas estilizadas, o fotografía de producto.",
+      "whenToUse": "En streaming, entrevistas face-to-face, podcasts con video, fotografía de producto, o cualquier producción de interiores donde la iluminación debe ser controlada y suave.",
+      "whatYouNeed": "Una superficie para montarlo (tripod o superficie plana) y energía USB.",
+      "quickTip": "Para entrevistas, poné la luz a 45° de la cara del sujeto y usá temperatura neutra (4500-5500K). El RGB es genial para ambientación pero no para reproducción fiel de piel."
+    }
+  },
+  {
+    "id": "softbox-generico",
+    "name": "Softbox",
+    "brand": "Genérico",
+    "model": "Softbox Iluminación",
+    "category": "iluminacion",
+    "subcategory": "softbox",
+    "aliases": [
+      "softbox",
+      "caja de luz",
+      "soft box",
+      "luz suave"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "fotografia-de-producto",
+        "streaming"
+      ],
+      "function": [
+        "iluminar"
+      ],
+      "context": [
+        "interior",
+        "estudio"
+      ],
+      "technology": [],
+      "characteristics": [
+        "luminoso",
+        "profesional"
+      ],
+      "productionStage": [
+        "iluminacion"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "fotografia-de-producto",
+      "streaming"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "chroma-key",
+      "rgb-led-ring-light",
+      "canon-50mm"
+    ],
+    "compatibleWith": [],
+    "alternatives": [
+      "rgb-led-ring-light"
+    ],
+    "notSuitableFor": [
+      "registro-de-eventos"
+    ],
+    "image": "/images/equipment/Softbox.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Caja difusora de luz que produce iluminación suave y direccional para studiot.",
+      "whatFor": "Difuminar la luz de una fuente de iluminación para producir sombras suaves y naturales. Es el estándar para iluminación de retratos, entrevistas, y fotografía de producto.",
+      "whenToUse": "En entrevistas donde la iluminación debe ser profesional y controlada, fotografía de producto, streaming con buena iluminación, o como fill light en documentales de interiores.",
+      "whatYouNeed": "Una fuente de luz compatible (bombilla o LED) y espacio para montarlo.",
+      "quickTip": "Posicioná el softbox lo más cerca posible al sujeto: cuanto más cerca, más suave es la luz. La distancia es el control de suavidad más importante."
+    }
+  },
+  {
+    "id": "canon-24-105",
+    "name": "Canon 24–105 mm",
+    "brand": "Canon",
+    "model": "EF 24-105mm f/4L IS II USM",
+    "category": "lentes",
+    "subcategory": "zoom",
+    "aliases": [
+      "canon 24 105",
+      "lente canon zoom",
+      "24-105",
+      "lente zoom canon"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "registro-de-eventos",
+        "fotografia-de-producto"
+      ],
+      "function": [
+        "capturar-video"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "estudio",
+        "movilidad"
+      ],
+      "technology": [],
+      "characteristics": [
+        "portatil",
+        "profesional"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "fotografia-de-producto",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "canon-50mm",
+      "tripod-generico",
+      "gimbal-gadnic"
+    ],
+    "compatibleWith": [
+      "bmcc-4k",
+      "canon-x5"
+    ],
+    "alternatives": [
+      "canon-50mm"
+    ],
+    "notSuitableFor": [
+      "corto-inmersivo-3d"
+    ],
+    "image": "/images/equipment/lente-canon-24-105mm.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Lente zoom versátil que cubre desde gran angular hasta telephoto medio, ideal para la mayoría de situaciones de producción.",
+      "whatFor": "Cubrir un rango focal amplio (24mm a 105mm) en un solo lente. Permite encuadres amplios para interiores, planos medios para entrevistas, y telephoto para detalles sin cambiar de lente.",
+      "whenToUse": "Es el lente \"de uso general\" para casi cualquier producción: entrevistas, documentales, eventos, fotografía de producto. Si solo pudieras llevar un lente, este sería el indicado.",
+      "whatYouNeed": "Una cámara con montura Canon EF (como la BMPCC 4K con adaptador, o una Canon DSLR).",
+      "quickTip": "A f/4 no es el más rápido en condiciones de poca luz, pero la estabilización integrada (IS) compensa para grabación en mano."
+    }
+  },
+  {
+    "id": "canon-50mm",
+    "name": "Canon 50 mm",
+    "brand": "Canon",
+    "model": "EF 50mm f/1.8 STM",
+    "category": "lentes",
+    "subcategory": "prime",
+    "aliases": [
+      "canon 50",
+      "lente 50",
+      "nifty fifty",
+      "lente fijo 50"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "fotografia-de-producto"
+      ],
+      "function": [
+        "capturar-video"
+      ],
+      "context": [
+        "interior",
+        "estudio"
+      ],
+      "technology": [],
+      "characteristics": [
+        "compacto",
+        "profesional"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "fotografia-de-producto"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "canon-24-105",
+      "rgb-led-ring-light"
+    ],
+    "compatibleWith": [
+      "bmcc-4k",
+      "canon-x5"
+    ],
+    "alternatives": [
+      "canon-24-105"
+    ],
+    "notSuitableFor": [
+      "registro-de-eventos",
+      "corto-inmersivo-3d"
+    ],
+    "image": "/images/equipment/canon-50mm.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Lente fijo de 50mm con apertura f/1.8, ideal para retratos y-planos con desenfoque de fondo.",
+      "whatFor": "Producir imágenes con un desenfoque de fondo (bokeh) hermoso gracias a su apertura amplia f/1.8. El rango focal de 50mm es natural para retratos y planos medios que se sienten cercanos y personales.",
+      "whenToUse": "En entrevistas donde querés aislar al sujeto del fondo, fotografía de producto con desenfoque controlado, o planos cinematográficos con shallow depth of field.",
+      "whatYouNeed": "Una cámara con montura Canon EF.",
+      "quickTip": "A f/1.8 el campo de enfoque es muy estrecho — si grabás video con movimiento, cerrá a f/2.8 o f/4 para tener más margen de error."
+    }
+  },
+  {
+    "id": "gimbal-gadnic",
+    "name": "Gimbal Estabilizador Gadnic",
+    "brand": "Gadnic",
+    "model": "Pendiente",
+    "category": "movimiento",
+    "subcategory": "gimbal",
+    "aliases": [
+      "gimbal gadnic",
+      "estabilizador gadnic",
+      "gimbal",
+      "estabilizador"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "estabilizar"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "movilidad"
+      ],
+      "technology": [],
+      "characteristics": [
+        "estabilizador",
+        "portatil"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "canon-24-105"
+    ],
+    "compatibleWith": [
+      "bmcc-4k"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [
+      "programa-de-radio",
+      "streaming"
+    ],
+    "image": "/images/equipment/Gimbal-estabilizador.jpeg",
+    "status": "needs-identification",
+    "content": {
+      "oneLiner": "Estabilizador motorizado para cámaras que elimina el movimiento no deseado en grabaciones en mano.",
+      "whatFor": "Estabilizar el video grabado en movimiento, eliminando sacudidas y produciendo planos fluidos y cinematográficos. Los gimbales motorizados compensan automáticamente el movimiento del operador.",
+      "whenToUse": "En documentales donde se camina con la cámara, entrevistas con movimiento, registro de eventos, o cualquier producción donde la cámara no está en tripod.",
+      "whatYouNeed": "Una cámara compatible por peso y un balanceo inicial del gimbal.",
+      "quickTip": "Dato pendiente de identificación — verificar modelo exacto, peso máximo soportado, y tipo de montura antes de usar con la BMPCC 4K."
+    }
+  },
+  {
+    "id": "chroma-key",
+    "name": "Chroma Key",
+    "brand": "Genérico",
+    "model": "Chroma Key Green Screen",
+    "category": "produccion",
+    "subcategory": "chroma",
+    "aliases": [
+      "green screen",
+      "pantalla verde",
+      "croma key",
+      "pantalla croma"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "streaming",
+        "corto-animado",
+        "fotografia-de-producto"
+      ],
+      "function": [
+        "crear-ambiente"
+      ],
+      "context": [
+        "interior",
+        "estudio"
+      ],
+      "technology": [],
+      "characteristics": [
+        "luminoso"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "entrevista",
+      "streaming",
+      "corto-animado-vefx",
+      "fotografia-de-producto"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "rgb-led-ring-light",
+      "softbox-generico"
+    ],
+    "compatibleWith": [],
+    "alternatives": [],
+    "notSuitableFor": [
+      "documental",
+      "registro-de-eventos",
+      "corto-inmersivo-3d"
+    ],
+    "image": "/images/equipment/Chroma-key.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Pantalla verde (o azul) para reemplazar el fondo en tiempo real o en postproducción.",
+      "whatFor": "Permitir reemplazar el fondo de una grabación con cualquier imagen o video. Es la base para crear entornos virtuales, efectos especiales, y composiciones visuales.",
+      "whenToUse": "En streaming con fondos virtuales, entrevistas con背景 personalizado, cortometrajos con efectos especiales, o fotografía de producto con fondos controlados.",
+      "whatYouNeed": "Buena iluminación uniforme sobre la pantalla y sobre el sujeto, para evitar sombras que dificulten la=key.",
+      "quickTip": "Iluminá la pantalla de chroma por separado del sujeto. Si hay sombras sobre la pantalla, el key no va a funcionar bien ni en vivo ni en post."
+    }
+  },
+  {
+    "id": "atem-mini-pro",
+    "name": "Blackmagic ATEM Mini Pro",
+    "brand": "Blackmagic Design",
+    "model": "ATEM Mini Pro",
+    "category": "video",
+    "subcategory": "switcher",
+    "aliases": [
+      "atem mini",
+      "switcher blackmagic",
+      "mezclador video",
+      "atem pro"
+    ],
+    "tags": {
+      "activity": [
+        "streaming",
+        "registro-de-eventos",
+        "entrevista"
+      ],
+      "function": [
+        "alternar-fuentes",
+        "transmitir",
+        "capturar-video"
+      ],
+      "context": [
+        "interior",
+        "estudio"
+      ],
+      "technology": [
+        "hdmi",
+        "usb"
+      ],
+      "characteristics": [
+        "compacto",
+        "profesional"
+      ],
+      "productionStage": [
+        "transmision"
+      ]
+    },
+    "skillLevel": [
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "streaming",
+      "registro-de-eventos",
+      "entrevista"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "hdmi-capture",
+      "hdmi-wireless-tx-rx",
+      "samsung-galaxy-tab-a9"
+    ],
+    "compatibleWith": [
+      "bmcc-4k",
+      "hdmi-capture",
+      "hdmi-wireless-tx-rx"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [
+      "podcast",
+      "corto-inmersivo-3d"
+    ],
+    "image": "/images/equipment/ATEM-MiniPro-patcher.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Mezclador de video compacto con 4 entradas HDMI y streaming integrado.",
+      "whatFor": "Alternar entre múltiples fuentes de video en tiempo real, agregar títulos, y transmitir directamente a plataformas de streaming. Convierte cualquier setup multi-cámara en una producción profesional.",
+      "whenToUse": "Para streaming en vivo con múltiples cámaras, eventos con transmisión simultánea, entrevistas con dos ángulos, o cualquier producción que requiera mezcla de video en tiempo real.",
+      "whatYouNeed": "Mínimo una cámara con salida HDMI (como la BMPCC 4K) y una computadora para streaming.",
+      "quickTip": "El ATEM Mini Pro graba directo a USB como si fuera una webcam — conectalo a OBS o Zoom y tenés streaming profesional sin configuración compleja."
+    }
+  },
+  {
+    "id": "bmcc-4k",
+    "name": "Blackmagic Pocket Cinema Camera 4K",
+    "brand": "Blackmagic Design",
+    "model": "Pocket Cinema Camera 4K",
+    "category": "video",
+    "subcategory": "camera",
+    "aliases": [
+      "bmpcc 4k",
+      "blackmagic 4k",
+      "camara blackmagic",
+      "pocket cinema",
+      "bmpcc"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "corto-animado",
+        "registro-de-eventos",
+        "fotografia-de-producto"
+      ],
+      "function": [
+        "capturar-video"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "estudio"
+      ],
+      "technology": [
+        "hdmi",
+        "usb-c"
+      ],
+      "characteristics": [
+        "4k",
+        "profesional"
+      ],
+      "productionStage": [
+        "captura"
+      ]
+    },
+    "skillLevel": [
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental",
+      "corto-animado-vefx",
+      "fotografia-de-producto",
+      "registro-de-eventos"
+    ],
+    "requires": [
+      "canon-24-105"
+    ],
+    "recommendedWith": [
+      "canon-24-105",
+      "canon-50mm",
+      "bateria-camaras",
+      "dc-dummy-battery",
+      "rode-ntg1",
+      "sennheiser-evolution-wireless",
+      "wd-green-ssd-2tb",
+      "crucial-portable-ssd-x9",
+      "rgb-led-ring-light",
+      "chroma-key",
+      "gimbal-gadnic",
+      "tripod-generico"
+    ],
+    "compatibleWith": [
+      "canon-24-105",
+      "canon-50mm",
+      "bateria-camaras",
+      "dc-dummy-battery",
+      "hdmi-capture",
+      "hdmi-wireless-tx-rx",
+      "atem-mini-pro"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [
+      "corto-inmersivo-3d"
+    ],
+    "image": "/images/equipment/Black-Magic---Handheld-film-camera-.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Cámara cinematográfica de bolsillo con sensor Micro Four Thirds y grabación en 4K Cinema RAW Lite.",
+      "whatFor": "Capturar video con calidad cinematográfica en un cuerpo compacto. Graba en formatos RAW y ProRes, lo que da enorme flexibilidad en postproducción. Es la herramienta central de cualquier producción de video profesional.",
+      "whenToUse": "En entrevistas, documentales, cortometrajos, registro de eventos, o cualquier producción donde la calidad de imagen es prioritaria.",
+      "whatYouNeed": "Un lente compatible (como el Canon 24–105 mm), SSD externo vía USB-C, y baterías adicionales o kit de batería dummy. La BMPCC 4K consume un alto nivel de batería, por lo que las baterías externas son imprescindibles en exteriores.",
+      "quickTip": "La BMPCC 4K consume rápidamente sus baterías LP-E6 internas. Para exterior, llevá siempre el kit de baterías dummy o baterías externas adicionales. Usá SSD externo vía USB-C para grabación continua."
+    }
+  },
+  {
+    "id": "hdmi-capture",
+    "name": "HDMI Video Capture",
+    "brand": "Genérico",
+    "model": "HDMI Capture Card",
+    "category": "video",
+    "subcategory": "capture",
+    "aliases": [
+      "captura hdmi",
+      "capture card",
+      "grabador hdmi",
+      "tarjeta captura"
+    ],
+    "tags": {
+      "activity": [
+        "streaming",
+        "entrevista",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "capturar-video",
+        "transmitir"
+      ],
+      "context": [
+        "interior",
+        "estudio"
+      ],
+      "technology": [
+        "hdmi",
+        "usb"
+      ],
+      "characteristics": [
+        "compacto",
+        "portatil"
+      ],
+      "productionStage": [
+        "transmision"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate"
+    ],
+    "useCases": [
+      "streaming",
+      "entrevista",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "atem-mini-pro",
+      "hdmi-wireless-tx-rx"
+    ],
+    "compatibleWith": [
+      "bmcc-4k",
+      "atem-mini-pro",
+      "hdmi-wireless-tx-rx"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [
+      "corto-inmersivo-3d"
+    ],
+    "image": "/images/equipment/HDMI-video-capture.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Tarjeta de captura que convierte señal HDMI en video USB para grabación o streaming.",
+      "whatFor": "Convertir la salida HDMI de una cámara (como la BMPCC 4K) en una señal de video que una computadora puede recibir como fuente USB. Esencial para streaming y grabación directa a disco.",
+      "whenToUse": "Cuando querés usar una cámara profesional como fuente de video para streaming, videollamadas, o grabación directa sin pasar por una mezcladora.",
+      "whatYouNeed": "Una cámara con salida HDMI y una computadora con software de grabación/streaming (OBS, Zoom, etc.).",
+      "quickTip": "Verificá que la capture card soporte la resolución y frame rate de tu cámara. Algunas baratas solo manejan 1080p30."
+    }
+  },
+  {
+    "id": "hdmi-wireless-tx-rx",
+    "name": "HDMI Wireless Transmitter and Receiver",
+    "brand": "Genérico",
+    "model": "50m Wireless HDMI",
+    "category": "video",
+    "subcategory": "transmitter",
+    "aliases": [
+      "transmisor hdmi inalambrico",
+      "receptor hdmi inalambrico",
+      "wireless hdmi",
+      "hdmi sin cables"
+    ],
+    "tags": {
+      "activity": [
+        "entrevista",
+        "documental",
+        "streaming",
+        "registro-de-eventos"
+      ],
+      "function": [
+        "transmitir",
+        "conectar"
+      ],
+      "context": [
+        "interior",
+        "exterior",
+        "movilidad"
+      ],
+      "technology": [
+        "hdmi",
+        "wireless"
+      ],
+      "characteristics": [
+        "inalambrico",
+        "portatil"
+      ],
+      "productionStage": [
+        "transmision"
+      ]
+    },
+    "skillLevel": [
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "entrevista",
+      "documental - streaming",
+      "registro-de-eventos"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "bmcc-4k",
+      "atem-mini-pro",
+      "hdmi-capture"
+    ],
+    "compatibleWith": [
+      "bmcc-4k",
+      "atem-mini-pro",
+      "hdmi-capture"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [
+      "corto-inmersivo-3d"
+    ],
+    "image": "/images/equipment/Wireless-HDM-transmiter-and-receiver-50m.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Sistema inalámbrico para transmitir señal HDMI hasta 50 metros sin cables.",
+      "whatFor": "Enviar video desde una cámara a una pantalla o mezcladora sin cables HDMI. Permite que la cámara se mueva libremente mientras la señal llega al monitor o switcher de forma inalámbrica.",
+      "whenToUse": "Cuando la cámara está alejada del monitor de referencia, en eventos donde los cables son impracticables, o en setups de streaming multi-cámara sin tendido de cables.",
+      "whatYouNeed": "Una cámara con salida HDMI y un receptor conectado a monitor, capture card o switcher.",
+      "quickTip": "En exteriores, verificá que no haya interferencias de WiFi en la misma frecuencia. Los sistemas 5GHz son más estables pero tienen menor alcance que los 2.4GHz."
+    }
+  },
+  {
+    "id": "gadnic-vr-lenses",
+    "name": "Gadnic VR Lenses",
+    "brand": "Gadnic",
+    "model": "Pendiente",
+    "category": "vr",
+    "subcategory": "lens-accessory",
+    "aliases": [
+      "lentes vr gadnic",
+      "lentes realidad virtual",
+      "lentes vr"
+    ],
+    "tags": {
+      "activity": [
+        "corto-inmersivo-3d"
+      ],
+      "function": [
+        "inmersivo"
+      ],
+      "context": [
+        "interior"
+      ],
+      "technology": [
+        "vr"
+      ],
+      "characteristics": [
+        "portatil"
+      ],
+      "productionStage": [
+        "monitoreo"
+      ]
+    },
+    "skillLevel": [
+      "beginner"
+    ],
+    "useCases": [
+      "corto-inmersivo-3d"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "meta-quest-3s",
+      "insta360-8k"
+    ],
+    "compatibleWith": [
+      "meta-quest-3s"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [
+      "entrevista",
+      "podcast"
+    ],
+    "image": "/images/equipment/Lendes-de-realidad-virtual-Gadnic.jpeg",
+    "status": "needs-identification",
+    "content": {
+      "oneLiner": "Lentes de realidad virtual Gadnic para visualización de contenido inmersivo.",
+      "whatFor": "Visualizar contenido de realidad virtual. Funcionan como tarjeta de visualización para experiencias inmersivas.",
+      "whenToUse": "Cuando necesitás visualizar contenido VR sin un casco completo, o como herramienta accesible para que el público pruebe experiencias inmersivas.",
+      "whatYouNeed": "Un smartphone compatible que se inserte en los lentes.",
+      "quickTip": "Dato pendiente de identificación — verificar compatibilidad de smartphones, resolución soportada y ergonomicas antes de recomendarse para uso prolongado."
+    }
+  },
+  {
+    "id": "meta-quest-3s",
+    "name": "Meta Quest 3S 128 GB",
+    "brand": "Meta",
+    "model": "Quest 3S",
+    "category": "vr",
+    "subcategory": "headset",
+    "aliases": [
+      "quest 3s",
+      "oculus quest",
+      "meta quest",
+      "auriculares vr"
+    ],
+    "tags": {
+      "activity": [
+        "corto-inmersivo-3d"
+      ],
+      "function": [
+        "inmersivo",
+        "monitorear",
+        "registrar-360"
+      ],
+      "context": [
+        "interior"
+      ],
+      "technology": [
+        "vr",
+        "wireless"
+      ],
+      "characteristics": [
+        "portatil",
+        "compacto"
+      ],
+      "productionStage": [
+        "monitoreo"
+      ]
+    },
+    "skillLevel": [
+      "beginner",
+      "intermediate",
+      "professional"
+    ],
+    "useCases": [
+      "corto-inmersivo-3d"
+    ],
+    "requires": [],
+    "recommendedWith": [
+      "insta360-8k",
+      "gadnic-vr-lenses"
+    ],
+    "compatibleWith": [
+      "gadnic-vr-lenses"
+    ],
+    "alternatives": [],
+    "notSuitableFor": [
+      "entrevista",
+      "podcast",
+      "streaming"
+    ],
+    "image": "/images/equipment/Oculus-Meta-Quest-3S---128GB.jpeg",
+    "status": "available",
+    "content": {
+      "oneLiner": "Casco de realidad virtual autónomo para experiencias inmersivas y revisión de contenido 360°.",
+      "whatFor": "Visualizar y revisar contenido inmersivo en 360° y VR. Permite al equipo de producción experimentar exactamente cómo se verá el contenido final desde la perspectiva del espectador.",
+      "whenToUse": "Para revisar cortometrajes inmersivos, probar experiencias VR antes de distribuirlas, o como plataforma de visualización en presentaciones.",
+      "whatYouNeed": "Solo el casco — funciona de forma autónoma sin cables ni computadora externa.",
+      "quickTip": "Usalo para revisar el framing de contenido 360° grabado con la Insta360: lo que se ve en la pantalla 2D no siempre coincide con la experiencia inmersiva."
+    }
+  }
+]
