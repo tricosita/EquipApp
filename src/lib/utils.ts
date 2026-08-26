@@ -14,7 +14,8 @@ export function getImageUrl(imagePath: string): string {
   // Client-side browser check
   if (typeof window !== "undefined") {
     const path = window.location.pathname;
-    if (path.startsWith("/EquipApp")) {
+    const host = window.location.hostname;
+    if (path.startsWith("/EquipApp") || host.includes("github.io")) {
       if (!cleanPath.startsWith("/EquipApp")) {
         return `/EquipApp${cleanPath}`;
       }
@@ -22,8 +23,11 @@ export function getImageUrl(imagePath: string): string {
     }
   }
 
-  // Build time or environment check
-  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+  // Build time (SSR / SSG export)
+  const basePath =
+    process.env.NEXT_PUBLIC_BASE_PATH ||
+    (process.env.GITHUB_ACTIONS ? "/EquipApp" : "");
+
   if (basePath && !cleanPath.startsWith(basePath)) {
     return `${basePath}${cleanPath}`;
   }
