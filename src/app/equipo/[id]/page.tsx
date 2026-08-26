@@ -49,6 +49,13 @@ function RelationshipSection({
   );
 }
 
+export async function generateStaticParams() {
+  const equipment = getAllEquipment();
+  return equipment.map((eq) => ({
+    id: eq.id,
+  }));
+}
+
 export default async function EquipmentPage({
   params,
 }: {
