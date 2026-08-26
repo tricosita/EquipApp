@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { getEquipmentById, getAllEquipment } from "@/lib/equipment";
 import { CATEGORY_LABELS, SKILL_LABELS, ACTIVITY_LABELS, FUNCTION_LABELS, CONTEXT_LABELS, TECH_LABELS, CHAR_LABELS, STAGE_LABELS } from "@/lib/taxonomy";
+import { getImageUrl } from "@/lib/utils";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
@@ -34,7 +35,7 @@ function RelationshipSection({
           >
             <div className="relative h-6 w-6 overflow-hidden rounded bg-secondary/50">
               <Image
-                src={eq!.image}
+                src={getImageUrl(eq!.image)}
                 alt={eq!.name}
                 fill
                 className="object-contain p-0.5"
@@ -202,7 +203,7 @@ export default async function EquipmentPage({
           {/* Image */}
           <div className="relative aspect-square overflow-hidden rounded-xl border border-border/50 bg-secondary/30">
             <Image
-              src={equipment.image}
+              src={getImageUrl(equipment.image)}
               alt={equipment.name}
               fill
               className="object-contain p-4"

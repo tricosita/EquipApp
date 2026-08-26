@@ -6,6 +6,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Equipment } from "@/types/equipment";
 import { CATEGORY_LABELS } from "@/lib/taxonomy";
+import { getImageUrl } from "@/lib/utils";
 import { Copy, ExternalLink, CheckCircle2, Star, Plus } from "lucide-react";
 
 interface RecommendationResultProps {
@@ -59,7 +60,7 @@ function EquipmentRow({
     <div className="flex items-start gap-3 rounded-lg border border-border/30 bg-card/50 p-3 transition-colors hover:bg-card">
       <div className="relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-lg bg-secondary/50">
         <Image
-          src={equipment.image}
+          src={getImageUrl(equipment.image)}
           alt={equipment.name}
           fill
           className="object-contain p-1"

@@ -6,6 +6,7 @@ import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { searchEquipment } from "@/lib/search";
 import { Equipment } from "@/types/equipment";
+import { getImageUrl } from "@/lib/utils";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -102,7 +103,7 @@ export function SearchBar({
             >
               <div className="relative h-10 w-10 flex-shrink-0 overflow-hidden rounded-lg bg-secondary/50">
                 <Image
-                  src={eq.image}
+                  src={getImageUrl(eq.image)}
                   alt={eq.name}
                   fill
                   className="object-contain p-1"

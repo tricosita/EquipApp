@@ -5,6 +5,7 @@ import Image from "next/image";
 import { Badge } from "@/components/ui/badge";
 import { CATEGORY_LABELS } from "@/lib/taxonomy";
 import { Equipment } from "@/types/equipment";
+import { getImageUrl } from "@/lib/utils";
 import { ExternalLink } from "lucide-react";
 
 interface EquipmentCardProps {
@@ -20,7 +21,7 @@ export function EquipmentCard({ equipment }: EquipmentCardProps) {
       {/* Image */}
       <div className="relative mb-3 aspect-square overflow-hidden rounded-lg bg-secondary/50">
         <Image
-          src={equipment.image}
+          src={getImageUrl(equipment.image)}
           alt={equipment.name}
           fill
           className="object-contain p-2 transition-transform duration-300 group-hover:scale-105"
